@@ -8,7 +8,7 @@ leg = s(X) # X is the amount of = you want in the leg
 print(leg)  
 ```
 # Links
-PyPI (x86_64): https://pypi.org/project/s-module/
+PyPI (x86_64): https://pypi.org/project/s-module/    
 PyWheels (Raspberry Pi / ARM): https://www.piwheels.org/project/s-module/
 
 # Compatability
@@ -17,5 +17,5 @@ PyWheels (Raspberry Pi / ARM): https://www.piwheels.org/project/s-module/
 (Testing by others not confirmed. PLEASE test on a Casio calculator. I don't have one.)
 
 # Build guides
-Currently:
+Currently:     
 I forgot.
