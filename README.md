@@ -9,7 +9,7 @@ print(leg)
 ```
 # Links
 PyPI (x86_64): https://pypi.org/project/s-module/    
-PyWheels (Raspberry Pi / ARM): https://www.piwheels.org/project/s-module/
+PiWheels (Raspberry Pi / ARM): https://www.piwheels.org/project/s-module/
 
 # Compatability
 - Tested: Python 3.9+
