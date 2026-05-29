@@ -11,7 +11,7 @@ print(leg)
 PyPI (x86_64): https://pypi.org/project/s-module/    
 PiWheels (Raspberry Pi / ARM): https://www.piwheels.org/project/s-module/
 
-# Compatability
+# Compatibility
 - Tested: Python 3.9+
 - Declared support: Python >= 3.6 (setup.py)
 (Testing by others not confirmed. PLEASE test on a Casio calculator. I don't have one.)
