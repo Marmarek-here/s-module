@@ -19,3 +19,7 @@ PiWheels (Raspberry Pi / ARM): https://www.piwheels.org/project/s-module/
 # Build guides
 Currently:     
 I forgot.
+
+# Size & RAM usage
+Size: didn't check. Maybe 1 MB.     
+RAM usage: none.
